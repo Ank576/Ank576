@@ -39,7 +39,7 @@ My work sits at the intersection of **product strategy, design, and technology**
 ---
 
 ### 🧩 Quick Links  
-- 💼 [LinkedIn]((https://www.linkedin.com/in/ankit-product/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankit-product/)  
 - 🧭 [Portfolio](https://yourwebsite.com)  
 - ✍️ [Product Articles](https://medium.com/@yourhandle)  
 - 📨 Reach me at: **your.email@domain.com**
