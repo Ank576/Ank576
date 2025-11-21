@@ -1,11 +1,10 @@
-# Introduction
 # Hi, I'm Ankit 👋  
 **Product Manager | Fintech & AI Enthusiast | Building Scalable Digital Products**
 
 ---
 
 ### 👨‍💼 About Me
-I’m a Product Manager at **Standard Chartered Bank (Noida)**, driving digital transformation initiatives and exploring how **AI, data, and automation** can shape the future of finance.  
+I’m a Product Manager at **Standard Chartered Research & Tech (Noida)**, driving digital transformation initiatives and exploring how **AI, data, and automation** can shape the future of finance.  
 My work sits at the intersection of **product strategy, design, and technology** — bridging customer insight with real-world impact.
 
 - 💡 Currently exploring: AI copilots for product workflows  
