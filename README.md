@@ -40,7 +40,7 @@ My work sits at the intersection of **product strategy, design, and technology**
 ### 🧩 Quick Links  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankit-product/)  
 - 🧭 [Portfolio](https://yourwebsite.com)  
-- ✍️ [Product Articles](https://medium.com/@yourhandle)  
+- ✍️ [Product Articles](https://github.com/Ank576/Product-Articles)
 - 📨 Reach me at: **ankit.saxena76@nmims.edu.in**
 
 ---
