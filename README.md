@@ -25,7 +25,7 @@ My work sits at the intersection of **product strategy, design, and technology**
 | [FinFlow Dashboard](https://www.perplexity.ai/apps/6134b209-4873-421d-9df4-c924c021a550) | Mock fintech dashboard visualizing user metrics and product KPIs | Data Visualization |
 | [IdeaDocs](https://github.com/Ank576/IdeaDocs) | PRD and product strategy documents | Product Strategy |
 | [WealthManager Product Canvas](https://github.com/Ank576/WealthManager) | A canvas template to map out FINANCIAL WELLNESS Ecosystem | Framework Design |
-| [Stock Trade Dashboard](https://v0.app/chat/stock-investing-dashboard-t9hDdTXnlyp?ref=IWLY88) | Start trading with us | Framework Prototype 
+| [Stock Trade Dashboard](https://github.com/Ank576/Stock-investing-dashboard) | Start trading with us | Framework Prototype 
 
 *(Each repo includes a live demo link, use-case writeup, and implementation notes.)*
 
