@@ -25,7 +25,7 @@ Welcome to my Product Design Portfolio — a collection of work showcasing my pr
 ---
 
 ## 🧠 What You'll Find  
-- Human-centred design explorations  
+- User-Centred design explorations  
 - Wireframes, user flows & journey maps  
 - Mobile & web UI designs  
 - Rapid prototyping  
