@@ -84,7 +84,7 @@ This space is built to **ideate, explore, experiment**, and share my design thou
 | [AI BNPL Eligibility Checker](https://github.com/Ank576/bnpl-eligibility-checker) | Sonar Pro LLM checks BNPL eligibility using RBI norms with approve/reject logic and regulatory citations. Built with Streamlit UI and Perplexity API (OpenAI-compatible client) returning JSON results. | LLM Framework |
 | [PromptVault](https://github.com/Ank576/PromptVault) | Structured library of LLM prompts for product research, analysis, and content generation. Best practices for testing and versioning prompts with robust evaluation methods. | AI, Prompt Engineering |
 | [IdeaDocs](https://github.com/Ank576/IdeaDocs) | PRD and product strategy documents | Strategy |
-| [Stock Trade Dashboard](https://github.com/Ank576/Stock-investing-dashboard) | Start trading with us | Framework |
+| [Stock Trade ](https://github.com/Ank576/Stock-investing-dashboard) | Start trading with us | Framework |
 
 
 *(Each repo includes a live demo link, use-case writeup, and implementation notes.)*
