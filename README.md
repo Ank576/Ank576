@@ -93,6 +93,15 @@ This space is built to **ideate, explore, experiment**, and share my design thou
 
 ---
 
+---
+
+### 📈 Stock & Share Market
+
+Passionate about stock market analysis and trading. Building automation research tools to help streamline market research, stock analysis, and data-driven investment strategies.
+
+- 🎯 Exploring: Market data automation & real-time tracking
+- 📊 Working on: Stock news aggregation & sentiment analysis tools
+- - 💡 Interested in: Algorithmic trading frameworks & financial data pipelines
 ### 🧠 Topics I Explore
 `AI Product Strategy` · `Fintech & Digital Payments` · `Prompt Engineering` · `Product-Led Growth` · `UX Analytics` · `Data & Automation`
 
@@ -116,12 +125,5 @@ This space is built to **ideate, explore, experiment**, and share my design thou
 
 **_"Great products are built at the intersection of vision, empathy, and experimentation."_**
 
----
-
-### 📈 Stock & Share Market
-
-Passionate about stock market analysis and trading. Building automation research tools to help streamline market research, stock analysis, and data-driven investment strategies.
-
-- 🎯 Exploring: Market data automation & real-time tracking
-- 📊 Working on: Stock news aggregation & sentiment analysis tools
+ls
 - 💡 Interested in: Algorithmic trading frameworks & financial data pipelines
