@@ -102,7 +102,8 @@ Passionate about stock market analysis and trading. Building automation research
 - 🎯 Exploring: Market data automation & real-time tracking
 - 📊 Working on: Stock news aggregation & sentiment analysis tools
 - 💡 Interested in: Algorithmic trading frameworks & financial data pipelines
-   **[FinStatAnalysis](https://github.com/Ank576/FinStatAnalysis)** - Comprehensive financial statement analysis and key metrics extraction tool
+
+   - **[FinStatAnalysis](https://github.com/Ank576/FinStatAnalysis)** - Comprehensive financial statement analysis and key metrics extraction tool
 ### 🧠 Topics I Explore
 `AI Product Strategy` · `Fintech & Digital Payments` · `Prompt Engineering` · `Product-Led Growth` · `UX Analytics` · `Data & Automation`
 
