@@ -43,25 +43,18 @@ This space is built to **ideate, explore, experiment**, and share my design thou
 
 ## 💡 Current Projects
 
-• 💳 **Payments & Fintech** - Payment flows, PSP integrations, UPI/cards/net-banking, settlements, reconciliation automation, checkout optimization.
+• 📚 [llm-powered-apps](https://github.com/Ank576/llm-powered-apps) - AI LLM based product workflows for fintech
+• 💳 [bnpl-eligibility-checker](https://github.com/Ank576/bnpl-eligibility-checker) - Sonar Pro LLM checks BNPL eligibility using RBI norms
+• 🧠 [rag-techniques-handbook](https://github.com/Ank576/rag-techniques-handbook) - RAG pipelines for empowering LLM models
+• 💵 [RBI Auditor](https://github.com/Ank576/fair-practices-auditor) - LLM RAG app for RBI Fair Practices Code auditor
+• 📈 [FinStatAnalysis](https://github.com/Ank576/FinStatAnalysis) - Comprehensive financial statement analysis tool
+• 📄 [StockNews](https://github.com/Ank576/StockNews) - Stock news aggregation with sentiment analysis
+• 📏 [PromptVault](https://github.com/Ank576/PromptVault) - Structured library of LLM prompts for product research
+• 📚 [IdeaDocs](https://github.com/Ank576/IdeaDocs) - PRD and product strategy documents
+• 💹 [Stock-investing-dashboard](https://github.com/Ank576/Stock-investing-dashboard) - Trading automation and market analysis
+• 💰 [Portfolio](https://github.com/Ank576/Portfolio) - Product design portfolio with case studies
+• 📄 [Product-Articles](https://github.com/Ank576/Product-Articles) - Deep-dive articles on fintech and product strategy
 
-• 🏦 **BNPL (Buy Now, Pay Later)** - Eligibility decisioning, EMI/tenor modeling, merchant onboarding, risk & collections workflows.
-
-• 🧠 **RAG Setups for Finance** - Simple chains → agentic RAG → hybrid search → local encrypted RAG for sensitive financial documents.
-
-• 🧩 **AI Agents (Finance-focused)** - Single-agent, multi-agent, tool-enabled agents for payment APIs, KYC tools, ledger updates, compliance ops.
-
-• 📦 **Ready-to-run Examples** - `clone → install → run` demos for payments + RAG + decisioning agents.
-
-• 🔧 **Dev Workflows** - Structuring agents, tool interfaces, logs, eval, observability, audit trails for regulated environments.
-
-• 💬 **Chat-with-Finance-Data Apps** - Chat with invoices, bank statements, ledgers, PDFs, merchant KBs — fully audit-logged.
-
-• 🚀 **Fine-Tuning (Finance domain)** - Gemma, Llama, and OSS models with domain adapters for structured finance tasks.
-
-• 📈 **Stock Market Analysis** - Market data automation, real-time tracking, news aggregation & sentiment analysis, algorithmic trading frameworks.
-
-• 📊 **Financial Statement Analysis** - Comprehensive financial metrics extraction and stock research tools.---
 
 ## Highlights
 
