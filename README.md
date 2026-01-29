@@ -41,34 +41,27 @@ This space is built to **ideate, explore, experiment**, and share my design thou
 ---
 ## Fintech • Payments • BNPL • AI RAG Systems
 
-### What I Work On
-#### Checkout [LLM Apps](https://github.com/Ank576/llm-powered-apps) 
+## 💡 Current Projects
 
-- 💳 **Payments & Fintech**  
-  Payment flows, PSP integrations, UPI/cards/net-banking, settlements, reconciliation automation, checkout optimisation.
+• 💳 **Payments & Fintech** - Payment flows, PSP integrations, UPI/cards/net-banking, settlements, reconciliation automation, checkout optimization.
 
-- 🏦 **BNPL (Buy Now, Pay Later)**  
-  Eligibility decisioning, EMI/tenor modeling, merchant onboarding, risk & collections workflows.
+• 🏦 **BNPL (Buy Now, Pay Later)** - Eligibility decisioning, EMI/tenor modeling, merchant onboarding, risk & collections workflows.
 
-- 🧠 **RAG Setups for Finance**  
-  Simple chains → agentic RAG → hybrid search → local encrypted RAG for sensitive financial documents.
+• 🧠 **RAG Setups for Finance** - Simple chains → agentic RAG → hybrid search → local encrypted RAG for sensitive financial documents.
 
-- 🧩 **AI Agents (Finance-focused)**  
-  Single-agent, multi-agent, tool-enabled agents for payment APIs, KYC tools, ledger updates, compliance ops.
+• 🧩 **AI Agents (Finance-focused)** - Single-agent, multi-agent, tool-enabled agents for payment APIs, KYC tools, ledger updates, compliance ops.
 
-- 📦 **Ready-to-run Examples**  
-  `clone → install → run` demos for payments + RAG + decisioning agents.
+• 📦 **Ready-to-run Examples** - `clone → install → run` demos for payments + RAG + decisioning agents.
 
-- 🔧 **Dev Workflows**  
-  Structuring agents, tool interfaces, logs, eval, observability, audit trails for regulated environments.
+• 🔧 **Dev Workflows** - Structuring agents, tool interfaces, logs, eval, observability, audit trails for regulated environments.
 
-- 💬 **Chat-with-Finance-Data Apps**  
-  Chat with invoices, bank statements, ledgers, PDFs, merchant KBs — fully audit-logged.
+• 💬 **Chat-with-Finance-Data Apps** - Chat with invoices, bank statements, ledgers, PDFs, merchant KBs — fully audit-logged.
 
-- 🚀 **Fine-Tuning (Finance domain)**  
-  Gemma, Llama, and OSS models with domain adapters for structured finance tasks.
+• 🚀 **Fine-Tuning (Finance domain)** - Gemma, Llama, and OSS models with domain adapters for structured finance tasks.
 
----
+• 📈 **Stock Market Analysis** - Market data automation, real-time tracking, news aggregation & sentiment analysis, algorithmic trading frameworks.
+
+• 📊 **Financial Statement Analysis** - Comprehensive financial metrics extraction and stock research tools.---
 
 ## Highlights
 
