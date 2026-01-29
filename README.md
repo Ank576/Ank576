@@ -1,4 +1,4 @@
-# Hi, I'm Ankit 👋  
+               # Hi, I'm Ankit 👋  
 **Product Manager | Fintech & AI Enthusiast | Building Scalable Digital Products**
 
 ---
@@ -39,21 +39,21 @@ Welcome to my Product Design Portfolio — a collection of work showcasing my pr
 This space is built to **ideate, explore, experiment**, and share my design thought process with the community.
 
 ---
-## Fintech • Payments • BNPL • AI RAG Systems
+## Fintech - Payments - BNPL - AI RAG Systems
 
 ## 💡 Current Projects
 
-• 📚 [llm-powered-apps](https://github.com/Ank576/llm-powered-apps) - AI LLM based product workflows for fintech
-• 💳 [bnpl-eligibility-checker](https://github.com/Ank576/bnpl-eligibility-checker) - Sonar Pro LLM checks BNPL eligibility using RBI norms
-• 🧠 [rag-techniques-handbook](https://github.com/Ank576/rag-techniques-handbook) - RAG pipelines for empowering LLM models
-• 💵 [RBI Auditor](https://github.com/Ank576/fair-practices-auditor) - LLM RAG app for RBI Fair Practices Code auditor
-• 📈 [FinStatAnalysis](https://github.com/Ank576/FinStatAnalysis) - Comprehensive financial statement analysis tool
-• 📄 [StockNews](https://github.com/Ank576/StockNews) - Stock news aggregation with sentiment analysis
-• 📏 [PromptVault](https://github.com/Ank576/PromptVault) - Structured library of LLM prompts for product research
-• 📚 [IdeaDocs](https://github.com/Ank576/IdeaDocs) - PRD and product strategy documents
-• 💹 [Stock-investing-dashboard](https://github.com/Ank576/Stock-investing-dashboard) - Trading automation and market analysis
-• 💰 [Portfolio](https://github.com/Ank576/Portfolio) - Product design portfolio with case studies
-• 📄 [Product-Articles](https://github.com/Ank576/Product-Articles) - Deep-dive articles on fintech and product strategy
+- 📚 [llm-powered-apps](https://github.com/Ank576/llm-powered-apps) - AI LLM based product workflows for fintech
+- 💳 [bnpl-eligibility-checker](https://github.com/Ank576/bnpl-eligibility-checker) - Sonar Pro LLM checks BNPL eligibility using RBI norms
+- 🧠 [rag-techniques-handbook](https://github.com/Ank576/rag-techniques-handbook) - RAG pipelines for empowering LLM models
+- 💵 [RBI Auditor](https://github.com/Ank576/fair-practices-auditor) - LLM RAG app for RBI Fair Practices Code auditor
+- 📈 [FinStatAnalysis](https://github.com/Ank576/FinStatAnalysis) - Comprehensive financial statement analysis tool
+- 📄 [StockNews](https://github.com/Ank576/StockNews) - Stock news aggregation with sentiment analysis
+- 📏 [PromptVault](https://github.com/Ank576/PromptVault) - Structured library of LLM prompts for product research
+- 📚 [IdeaDocs](https://github.com/Ank576/IdeaDocs) - PRD and product strategy documents
+- 💹 [Stock-investing-dashboard](https://github.com/Ank576/Stock-investing-dashboard) - Trading automation and market analysis
+- 💰 [Portfolio](https://github.com/Ank576/Portfolio) - Product design portfolio with case studies
+- 📄 [Product-Articles](https://github.com/Ank576/Product-Articles) - Deep-dive articles on fintech and product strategy
 
 
 ## Highlights
