@@ -120,5 +120,3 @@ Passionate about stock market analysis and trading. Building automation research
 
 **_"Great products are built at the intersection of vision, empathy, and experimentation."_**
 
-ls
-- 💡 Interested in: Algorithmic trading frameworks & financial data pipelines
